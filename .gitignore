@@ -1,0 +1,6 @@
+.DS_Store
+*.log
+*.pyc
+__pycache__/
+env/
+lection_tasks/
