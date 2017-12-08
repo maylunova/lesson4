@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"api",
+				"apikey"
+			],
+			[
+				"gt",
+				"get_weather"
+			],
+			[
+				"user",
+				"user_text"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"cal",
+				"calculator"
+			],
+			[
+				"pass",
+				"pass_user_data"
+			],
+			[
+				"comm",
+				"command_name"
+			],
+			[
+				"last",
+				"last_letter"
+			],
+			[
+				"las",
+				"last_letter"
+			],
+			[
+				"user_",
+				"user_city"
+			],
+			[
+				"re",
+				"reply_text"
+			],
+			[
+				"Co",
+				"COMMAND_REGISTRY"
+			],
+			[
+				"w",
+				"wordcount"
+			],
+			[
+				"fi",
+				"first_num"
+			],
+			[
+				"ephem",
+				"ephem_result"
+			],
+			[
+				"word",
+				"wordcount"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"de",
+				"def\tFunction"
+			],
+			[
+				"str",
+				"string_2"
+			],
+			[
+				"planet",
+				"planet_name"
+			],
+			[
+				"ep",
+				"ephem_answer"
+			],
+			[
+				"plane",
+				"planet_name"
+			],
+			[
+				"pla",
+				"planet_name"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"use",
+				"user_journal"
+			],
+			[
+				"an",
+				"answers"
+			],
+			[
+				"answer",
+				"answer"
+			],
+			[
+				"get",
+				"get_answer"
+			],
+			[
+				"a",
+				"answers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "homework/popular_name.py",
+			"settings":
+			{
+				"buffer_size": 644,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gulnazmajlunova/projects/lesson4",
+		"/Users/gulnazmajlunova/projects/lesson4/homework"
+	],
+	"file_history":
+	[
+		"/Users/gulnazmajlunova/projects/lesson4/meetup_tasks/metro_repair.py",
+		"/Users/gulnazmajlunova/projects/lesson4/meetup_tasks/bus_stop.py",
+		"/Users/gulnazmajlunova/projects/lesson4/meetup_tasks/bus_station_near_metro.py",
+		"/Users/gulnazmajlunova/projects/lesson4/homework/server.py",
+		"/Users/gulnazmajlunova/projects/lesson4/homework/popular_name.py",
+		"/Users/gulnazmajlunova/projects/lesson4/lection_tasks/server.py",
+		"/Users/gulnazmajlunova/projects/lesson4/homework/config.py",
+		"/Users/gulnazmajlunova/projects/lesson4/.gitignore",
+		"/Users/gulnazmajlunova/Downloads/data-397-2017-10-31.json",
+		"/Users/gulnazmajlunova/projects/lesson4/lection_tasks/req.py",
+		"/Users/gulnazmajlunova/projects/lesson4/bus_data_test.csv",
+		"/Users/gulnazmajlunova/projects/lesson4/bus_data.csv",
+		"/Users/gulnazmajlunova/projects/lesson4/bus_stop.py",
+		"/Users/gulnazmajlunova/projects/lesson4/data.csv",
+		"/Users/gulnazmajlunova/projects/lesson3/other/export_answers.py",
+		"/Users/gulnazmajlunova/projects/lesson4/transport_stops_data2.csv",
+		"/Users/gulnazmajlunova/projects/lesson3/other/with_open.py",
+		"/Users/gulnazmajlunova/projects/lesson4/data-398-2017-12-01.csv",
+		"/Users/gulnazmajlunova/Downloads/data-398-2017-12-01.csv",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/bot.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/wordcount.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/calculator.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/bot.log",
+		"/Users/gulnazmajlunova/projects/bot_copy_keyboard.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/goroda.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/city.csv",
+		"/Users/gulnazmajlunova/projects/lesson3/city.csv",
+		"/Users/gulnazmajlunova/projects/lesson3/other/export.csv",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/astronomy.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/common.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/test.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot/dict_calculator.py",
+		"/Users/gulnazmajlunova/projects/lesson2/export_answers.py",
+		"/Users/gulnazmajlunova/projects/lesson3/other/datetime.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot.py",
+		"/Users/gulnazmajlunova/projects/lesson3/calculator.py",
+		"/Users/gulnazmajlunova/projects/lesson3/wordcount.py",
+		"/Users/gulnazmajlunova/projects/lesson3/common.py",
+		"/Users/gulnazmajlunova/projects/lesson3/astronomy.py",
+		"/Users/gulnazmajlunova/projects/lesson3/.gitignore",
+		"/Users/gulnazmajlunova/projects/lesson3/bot_all_in_one.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot_calculator.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot_wordcount.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot_next_full_moon.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot.log",
+		"/Users/gulnazmajlunova/projects/lesson3/bot_ephem2.py",
+		"/Users/gulnazmajlunova/projects/lesson3/лу.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot_copy.py",
+		"/Users/gulnazmajlunova/projects/lesson3/with_open.py",
+		"/Users/gulnazmajlunova/projects/lesson3/bot_ephem.py",
+		"/Users/gulnazmajlunova/projects/lesson2/bot_ephem.py",
+		"/Users/gulnazmajlunova/projects/lesson2/while3.py",
+		"/Users/gulnazmajlunova/projects/lesson2/if_strings.py",
+		"/Users/gulnazmajlunova/projects/lesson2/if_age.py",
+		"/Users/gulnazmajlunova/projects/lesson2/exception.py",
+		"/Users/gulnazmajlunova/projects/lesson2/cyclefor1.py",
+		"/Users/gulnazmajlunova/projects/lesson2/cyclefor_avg_score.py",
+		"/Users/gulnazmajlunova/projects/lesson2/while1.py",
+		"/Users/gulnazmajlunova/projects/lesson2/while2.py",
+		"/Users/gulnazmajlunova/projects/lesson2/while4.py",
+		"/Users/gulnazmajlunova/projects/lesson2/cyclefor2.py",
+		"/Users/gulnazmajlunova/projects/lesson2/.gitignore",
+		"/Users/gulnazmajlunova/projects/lesson2/while4_var2.py",
+		"/Users/gulnazmajlunova/projects/lesson1/bot.log",
+		"/Users/gulnazmajlunova/projects/lesson1/bot.py",
+		"/Users/gulnazmajlunova/Downloads/ephem-3.7.6.0/ephem/cities.py",
+		"/Users/gulnazmajlunova/Downloads/ephem-3.7.6.0/setup.py",
+		"/Users/gulnazmajlunova/Downloads/ephem-3.7.6.0/ephem/__init__.py",
+		"/Users/gulnazmajlunova/Downloads/ephem-3.7.6.0/ephem/stars.py",
+		"/Users/gulnazmajlunova/projects/lesson1/answers.py",
+		"/Users/gulnazmajlunova/projects/lesson2/age.py",
+		"/Users/gulnazmajlunova/projects/lesson2/strings.py",
+		"/Users/gulnazmajlunova/projects/lesson2/avg_score.py",
+		"/Users/gulnazmajlunova/projects/lesson1/.gitignore",
+		"/Users/gulnazmajlunova/projects/lesson1/test.py",
+		"/Users/gulnazmajlunova/test.py",
+		"/Users/gulnazmajlunova/Library/Application Support/Sublime Text 3/Packages/User/Python3.sublime-build",
+		"/Users/gulnazmajlunova/Downloads/untitled.sublime-build",
+		"/Users/gulnazmajlunova/example.py",
+		"/Users/gulnazmajlunova/Documents/PythonNotebook/XML/student.xml",
+		"/Users/gulnazmajlunova/Documents/PythonNotebook/XML/example_modified.xml",
+		"/Users/gulnazmajlunova/Documents/PythonNotebook/module3/example.xml",
+		"/Users/gulnazmajlunova/Documents/PythonNotebook/module3/example.json",
+		"/private/var/folders/kj/3ld0x6l15w9dc20d6lq2n87w0000gn/T/b1ee5803-704f-4762-9238-2f1cfaea8bcf/public_html/myblog.php",
+		"/Users/gulnazmajlunova/Documents/Основы программирования/Lesson 4/site/myblog.php",
+		"/Users/gulnazmajlunova/Downloads/site/style.css",
+		"/Users/gulnazmajlunova/Documents/Основы программирования/Lesson 2/site/style.css",
+		"/Users/gulnazmajlunova/Documents/Основы программирования/Lesson 2/style.css",
+		"/Users/gulnazmajlunova/Documents/code/mystyle_yoga.css",
+		"/Users/gulnazmajlunova/Documents/code/aplusb.py",
+		"/Users/gulnazmajlunova/anaconda/pkgs/pip-9.0.1-py36_1/lib/python3.6/site-packages/pip/_vendor/packaging/__about__.py",
+		"/Users/gulnazmajlunova/class.tsv",
+		"/Users/gulnazmajlunova/module_requests.py",
+		"/Users/gulnazmajlunova/zadacha.py",
+		"/Users/gulnazmajlunova/requests.py",
+		"/Users/gulnazmajlunova/requsts.py",
+		"/Users/gulnazmajlunova/usind_sys.py",
+		"/Users/gulnazmajlunova/untitled.py",
+		"/Users/gulnazmajlunova/Documents/code/data.txt",
+		"/Users/gulnazmajlunova/Downloads/aplusb.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "homework/popular_name.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 644,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 26.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.sublime-build",
+	"project": "lesson4.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
